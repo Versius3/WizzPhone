@@ -1,4 +1,5 @@
 v2.0 NEW FEATURES:
+
 - We have enabled automatic updates! 
 - Completely new design
 - Automatic ticket opening for phone and emails has been added
@@ -8,7 +9,6 @@ v2.0 NEW FEATURES:
 - The Copy ID and Copy Text buttons have been added. ID copies only the ID, while Text copies the entire bottom text.
 - When creating a ticket, it is now necessary to fill in the ID in each case, select the error, and also indicate whether it was a SELF or NSELF error.
 
-
- Thank you for your patience while the update arrived. From now on, you will receive information about all updates in this way.
+Thank you for your patience while the update arrived. From now on, you will receive information about all updates in this way.
 
 Peti
