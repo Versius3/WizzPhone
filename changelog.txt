@@ -1,0 +1,14 @@
+v2.0 NEW FEATURES:
+- We have enabled automatic updates! 
+- Completely new design
+- Automatic ticket opening for phone and emails has been added
+- Compact mode has been added, a smaller mode that can be placed in the corner
+- Email template window has been added, which has pre-written email templates and you can also add your own
+- Previous calls are displayed in a new way. They can be copied with a click if needed.
+- The Copy ID and Copy Text buttons have been added. ID copies only the ID, while Text copies the entire bottom text.
+- When creating a ticket, it is now necessary to fill in the ID in each case, select the error, and also indicate whether it was a SELF or NSELF error.
+
+
+ Thank you for your patience while the update arrived. From now on, you will receive information about all updates in this way.
+
+Peti
