@@ -1,14 +1,19 @@
 v2.0 NEW FEATURES:
 
-- We have enabled automatic updates! 
+- We have enabled automatic updates. From now on, this application will always be updated, and a pop-up window will inform you if an update is available.
 - Completely new design
-- Automatic ticket opening for phone and emails has been added
-- Compact mode has been added, a smaller mode that can be placed in the corner
-- Email template window has been added, which has pre-written email templates and you can also add your own
-- Previous calls are displayed in a new way. They can be copied with a click if needed.
+- Automatic ticket opening for phone and emails has been added. To do this, you will find 2 buttons at the bottom of the program. In the current situation, you need to press the Activites and then the Update Status button.     Within that, you need to select the time and the root cause. Everything else happens automatically. It is important that you save your login information the first time you log in so that you are logged in automatically.
+- In the case of automatic ticket opening, the program resets the text, so you don't have to use the reset button after calls.
+- The search bar has been added. When you search for an error, you will see errors found with that keyword. If there is only one result, the search bar will close.
+- Compact mode has been added, a smaller mode that can be placed in the corner. All functions are available here too.
+- Email template window has been added, which has pre-written email templates and you can also add your own custom templates.
+- Previous calls are displayed in a new way. This can be viewed by clicking on the gear icon. They can be copied with a click if needed.
 - The Copy ID and Copy Text buttons have been added. ID copies only the ID, while Text copies the entire bottom text.
 - When creating a ticket, it is now necessary to fill in the ID in each case, select the error, and also indicate whether it was a SELF or NSELF error.
 
-Thank you for your patience while the update arrived. From now on, you will receive information about all updates in this way.
+
+Thank you for your patience while the update arrived. From now on, you will receive information about all updates in this way. 
+
+If you have any questions or find any bugs, feel free to contact me on Teams.
 
 Peti
