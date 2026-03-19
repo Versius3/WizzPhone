@@ -1,3 +1,6 @@
+
+After many months, WizzPhone has reached a major milestone. With version 2.0, the application has been updated with many new features, which you can read about in detail below.
+
 v2.0 NEW FEATURES:
 
 - The program will now update automatically. From now on, this application will always be updated, and a pop-up window will inform you if an update is available.
