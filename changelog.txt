@@ -1,4 +1,4 @@
-
+Hi, 
 After many months, WizzPhone has reached a major milestone. With version 2.0, the application has been updated with many new features, which you can read about in detail below.
 
 v2.0 NEW FEATURES:
@@ -17,6 +17,6 @@ v2.0 NEW FEATURES:
 
 Thank you for your patience while the update arrived. From now on, you will receive information about all updates in this way. 
 
-If you have any questions or find any bugs, feel free to contact me on Teams.
+If you have any questions or find any bugs, feel free to contact Peti on Teams.
 
-Peti
+Balázs and Peti
