@@ -12,7 +12,7 @@ v2.0 NEW FEATURES:
 - Email template window has been added, which has pre-written email templates and you can also add your own custom templates. 
 - You can now see your previous calls through the app. This can be viewed by clicking on the gear icon. They can be copied with a click if needed.
 - The Copy ID and Copy Text buttons have been added. ID copies only the ID, while Text copies the entire bottom text.
-- When creating a ticket, it is now necessary to fill in the ID in each case, select the error, and also indicate whether it was a SELF or NSELF error.
+- When creating a ticket, it is now necessary to fill in the ID in each case, select the error, and also indicate whether it was a SELF or NSELF error. If any of them are missing, you will receive a pop-up message with the missing step.
 - All log files and similar data files are accessible in encrypted form.
 
 Thank you for your patience while the update arrived. From now on, you will receive information about all updates in this way. 
