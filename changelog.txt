@@ -1,6 +1,4 @@
-v2.1 NEW FEATURES:
-- The order of the dropdown menus can be changed in the main app by long pressing on it, then the purple line indicates where you will put it. This allows you to customize the app better.
-- Fixed automatic login error on password expiration and change.
-- Fixed typos and template not appearing bug
-- Automatic description text that the ticket was created only because of phone or email.
-- Separated history depending on whether email or phone was logged in
+v2.2 NEW FEATURES:
+- In addition to logged calls and emails, the ticket number is now also displayed. Clicking on the text copies the text, while clicking on the ticket number in the pink square copies the ticket number.
+- In the main window, there is a most used menu at the top. This contains the 5 most frequently used errors.
+- In the case of email templates, it is also possible to select favorites. These appear at the top if you click on the star button and add a template to your favorites. Clicking on the star button again removes the template from your favorites.
