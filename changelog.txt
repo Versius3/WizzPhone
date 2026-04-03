@@ -4,3 +4,4 @@ v2.2 NEW FEATURES:
 - In the main window, there is a most used menu at the top. This contains the 5 most frequently used errors.
 - In the case of email templates, it is also possible to select favorites. These appear at the top if you click on the star button and add a template to your favorites. Clicking on the star button again removes the template from your favorites.
 - History has a new icon.
+- Improved click feedback for email templates.
