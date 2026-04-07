@@ -1,4 +1,4 @@
-Happy Easter! 
+
 v2.2 NEW FEATURES:
 - In addition to logged calls and emails, the ticket number is now also displayed. Clicking on the text copies the text, while clicking on the ticket number in the pink square copies the ticket number.
 - In the main window, there is a most used menu at the top. This contains the 5 most frequently used errors.
