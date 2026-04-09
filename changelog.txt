@@ -1,3 +1,4 @@
-v2.4 NEW FEATURES:
+v2.5 NEW FEATURES:
 - Changed automatic text when opening and closing a ticket.
 - Security fixes.
+- Lunch voting fix. Voting now works again without any problems
