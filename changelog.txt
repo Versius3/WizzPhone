@@ -1,4 +1,62 @@
-v2.5 NEW FEATURES:
-- Changed automatic text when opening and closing a ticket.
-- Security fixes.
-- Lunch voting fix. Voting now works again without any problems
+WizzPhone 2.6 — what's new since 2.5
+=====================================
+
+Headless ticket creation
+------------------------
+- Phone / Email ticket buttons now run the entire CASD ticket-opening flow
+  in the background. The browser window no longer flashes onto the screen;
+  if every step succeeds you only see a "Ticket NR123456 opened
+  successfully" notification (status strip + toast + sound).
+- If anything goes wrong mid-flow (CASD page can't be matched, contact
+  search hangs, save fails), the browser is brought to the foreground so
+  you can finish by hand and see exactly where it stalled.
+
+Mail-address tidying on input
+-----------------------------
+- Pasting a full mail address into the user field now strips
+  "@aircraftthrust.com" and "@wizzair.com" automatically. The CASD
+  contact lookup, ticket summary/description, statistics and call history
+  all see just the username portion.
+
+Email templates: favourites, custom templates and cloud backup
+--------------------------------------------------------------
+- Favourites and custom CH_/CE_ templates are now backed up to the
+  operator's Firebase user_data node. After a reinstall the templates
+  come back automatically when the app starts and finds no local copy.
+- Custom templates can be renamed inline (Enter to commit, Esc to
+  cancel); the rename is saved and synced once per edit.
+- Email window editor revamp with richer formatting controls and a
+  refreshed text-editor button row.
+- Template content is TrimEnd'd before going to the clipboard / mail
+  body so Outlook no longer appends a blank trailing line.
+
+Macros survive reinstalls
+-------------------------
+- Custom macros and dynamic macros are backed up to the same Firebase
+  user_data document. Reinstalling the app on a new machine pulls the
+  macro configuration back automatically — no need to recreate them.
+
+Required time + Root Cause enforced
+-----------------------------------
+- The ticket-opening flow now fills in the required time and a Root
+  Cause selection automatically and slows down the browser steps so
+  CASD's required-field validation stops rejecting fresh tickets.
+
+Call history
+------------
+- Fixed the duplicate-entry bug where call history could record two
+  rows for the same call (one phone, one email).
+
+
+Out of scope for 2.6
+--------------------
+- The CASD SOAP/REST API client (programmatic ticket creation) is
+  present but not used by the default ticket flow.
+
+Known minor items
+-----------------
+- Window borders on Lunch / Password-Requests / CASD-Login windows
+  resolved a missing `BorderColor` brush silently; the brush is now
+  defined globally so borders render consistently.
+- Inline-edit save on Enter is guarded against the LostFocus double-fire
+  so each rename triggers exactly one local save + one cloud push.
