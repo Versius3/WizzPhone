@@ -18,6 +18,10 @@ Mail-address tidying on input
   contact lookup, ticket summary/description, statistics and call history
   all see just the username portion.
 
+Bug/Idea report site added
+-----------------------------
+There is an option to report bugs and ideas. You can also upload images here to better understand the problem.
+
 Email templates: favourites, custom templates and cloud backup
 --------------------------------------------------------------
 - Favourites and custom CH_/CE_ templates are now backed up to the
