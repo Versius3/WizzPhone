@@ -1,6 +1,3 @@
-Changes in 2.8.1:
-- Now, by left-clicking on the ticket number, the ticket will open in a separate window. By right-clicking, it will be copied in the same way as before
-- On weekdays between 7 pm and 7 am, and on weekends and holidays, the ticket manager will now monitor the ticket manager every 3 minutes and notify you if a ticket arrives. If nothing happens to it for 10 minutes, it will send a reminder every 10 minutes.
-- Minor performance changes
-- It is no longer possible to write text instead of the time, the system only allows numbers
-- If multiple IDs are entered, you can double-click the username field to check all the IDs that have been entered.
+Changes in 2.8.2:
+- Ticketing system related change
+- Font size can now be changed in the history menu to select a more comfortable size.
