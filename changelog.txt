@@ -1,3 +1,2 @@
-Changes in 2.8.2:
-- Ticketing system related change
-- Font size can now be changed in the history menu to select a more comfortable size.
+Changes in 2.8.3:
+- Minor change in display at larger sizes or when a long ID or text is entered. Right click to see the full text.
