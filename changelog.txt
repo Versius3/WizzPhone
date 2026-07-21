@@ -1,3 +1,2 @@
-Changes in 2.8.4:
-- Minor change in display at larger sizes or when a long ID or text is entered. Right click to see the full text.
-- Root cause scrolling fixed
+Changes in 2.8.5:
+- Addign AMOS esign modul
