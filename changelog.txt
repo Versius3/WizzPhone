@@ -1,2 +1,2 @@
-Changes in 2.8.5:
-- Addign AMOS esign modul
+Changes in 2.8.6:
+- Changes to the revamped Affected System menu in SD to allow the new Affected Systems to be used.
