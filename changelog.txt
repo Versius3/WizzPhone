@@ -1,2 +1,2 @@
-Changes in 2.8.7:
-- Changes to the revamped Affected System menu in SD to allow the new Affected Systems to be used.
+Changes in 2.8.8:
+- Changes to the revamped Affected System menu in SD to allow the new Affected Systems to be used after last update the all ticket to Assistant/Information/Training
