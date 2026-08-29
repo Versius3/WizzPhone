@@ -1,2 +1,15 @@
-Changes in 2.8.9:
-- Changes to the revamped Affected System menu in SD to allow the new Affected Systems to be used after last update the all ticket to Assistant/Information/Training
+WizzPhone 2.9 — What's new
+
+• Fixed: the Affected End User field could show the wrong name.
+• Fixed: multiple user ticket opening error message
+• Affected System is easier and steadier to choose.
+• Outlook add-in: templates now insert even if you didn't click in the reply first. 
+• The Outlook add-in is used as follows:
+  1. Download the file from the app
+  2. Open the following page: https://aka.ms/olksideload
+  3. Select my add-ins then Custom add-ins and then press the plus button and select add from file.
+  4. Select the downloaded file.
+  If you did everything correctly, the WizzPhone logo should appear in the row where the new email button is, only it will be at the end.
+• Smoother e-mail start, plus smaller clean-ups under the hood.
+• The history menu contains a brief description of how to use the app and an updater button to check if there is a new update. This also works if you click on the version number.
+
