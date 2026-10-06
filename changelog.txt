@@ -1,15 +1,5 @@
-WizzPhone 2.9 — What's new
+WizzPhone 2.9.1 — What's new
 
-• Fixed: the Affected End User field could show the wrong name.
-• Fixed: multiple user ticket opening error message
-• Affected System is easier and steadier to choose.
-• Outlook add-in: templates now insert to the body with automatic addressing. 
-• The Outlook add-in is used as follows:
-  1. Download the file from the app. In the call history section, there is a download button at the bottom. You can download the add-in by pressing the Get button.
-  2. Open the following page: https://aka.ms/olksideload
-  3. Select my add-ins then Custom add-ins and then press the plus button and select add from file.
-  4. Select the downloaded file.
-  If you did everything correctly, the WizzPhone logo should appear in the row where the new email button is, only it will be at the end.
-• Smoother e-mail start, plus smaller clean-ups under the hood.
-• The history menu contains a brief description of how to use the app and an updater button to check if there is a new update. This also works if you click on the version number.
-
+• L1 Password reset tool link: when a password reset or an account unlock is finished in the L1 tool on ADM06/ADM07, WizzPhone fills in the user name and ticks the matching category by itself — “AD unlock account”, “AD pw reset” or both, and NSK, AIMS or eCrew pw reset. The ticket line is ready straight away.
+• A small bar under the input box shows what was filled in, with Undo in case you were in the middle of another ticket. It disappears when the ticket is opened.
+• WizzPhone only reads the L1 tool's hidden note — never your clipboard text, and never a password. Needs the L1 Password reset tool 2.2.1 or later.
