@@ -1,5 +1,4 @@
-WizzPhone 2.9.1 — What's new
+WizzPhone 2.9.2 — What's new
 
-• L1 Password reset tool link: when a password reset or an account unlock is finished in the L1 tool on ADM06/ADM07, WizzPhone fills in the user name and ticks the matching category by itself — “AD unlock account”, “AD pw reset” or both, and NSK, AIMS or eCrew pw reset. The ticket line is ready straight away.
-• A small bar under the input box shows what was filled in, with Undo in case you were in the middle of another ticket. It disappears when the ticket is opened.
-• WizzPhone only reads the L1 tool's hidden note — never your clipboard text, and never a password. Needs the L1 Password reset tool 2.2.1 or later.
+• L1 Password reset tool link: large Ground Handlers batches now come through as well. WizzPhone accepts up to about 100 comma-separated user IDs from one reset (it was about 35 — above that, nothing was filled in).
+• The bar under the input box stays short for a big batch: the first two IDs and how many more (e.g. "L1: BUD001, BUD002 +48 more"). Hover over it for the full list.
