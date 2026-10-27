@@ -1,4 +1,4 @@
-WizzPhone 2.9.2 — What's new
+WizzPhone 2.9.3 — What's new
 
-• L1 Password reset tool link: large Ground Handlers batches now come through as well. WizzPhone accepts up to about 100 comma-separated user IDs from one reset (it was about 35 — above that, nothing was filled in).
-• The bar under the input box stays short for a big batch: the first two IDs and how many more (e.g. "L1: BUD001, BUD002 +48 more"). Hover over it for the full list.
+• On-Call list: the 📞 button at the top shows who is on call right now for each team, with their phone number.
+• AMOS eSign: the username is turned into lowercase as you type, and the generated script always uses the lowercase form.
